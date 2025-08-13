@@ -1,2 +1,2 @@
 # newfile
-dicitionary project
+dictionary project
